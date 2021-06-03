@@ -1,0 +1,31 @@
+
+caption {
+    background-color: blue;
+    color: white;
+}
+section table thead{
+    background-color: rgb(12, 163, 12); 
+}
+section table thead{
+    color: white; 
+}
+
+section table tbody #A52 {
+    background-color: rgb(12, 243, 12); 
+}
+section table tbody #A745 {
+    background-color: rgb(16, 211, 16); 
+}
+section table tbody #A855 {
+    background-color: rgb(12, 243, 12); 
+}
+section table tbody #A112 {
+    background-color: rgb(16, 211, 16); 
+}
+section table tbody #A965 {
+    background-color: rgb(12, 243, 12); 
+}
+section table tbody #A321 {
+    background-color: rgb(16, 211, 16); 
+}
+
